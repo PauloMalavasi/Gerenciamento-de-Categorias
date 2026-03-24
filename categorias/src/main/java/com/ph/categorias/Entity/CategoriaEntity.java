@@ -40,3 +40,5 @@ public class CategoriaEntity {
         this.descricao = descricao;
     }
 
+}
+
